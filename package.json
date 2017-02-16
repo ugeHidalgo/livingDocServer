@@ -6,7 +6,5 @@
   "author": {
     "name": "Uge Hidalgo"
   },
-  "dependencies": {
-    "express": "^4.14.1"
-  }
+  "dependencies": {}
 }
