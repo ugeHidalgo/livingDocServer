@@ -1,0 +1,12 @@
+{
+  "name": "livingdoc",
+  "version": "1.0.0",
+  "description": "Living doc",
+  "main": "server.js",
+  "author": {
+    "name": "Uge Hidalgo"
+  },
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
